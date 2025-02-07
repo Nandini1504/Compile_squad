@@ -16,6 +16,7 @@ TECHNOLOGY STACK
 ## CONTRIBUTORS-
 **team name: Compile_Squad**
 1. [Nandini1504] (https://github.com/Nandini1504)
+2. [YogitaBhandari09] (https://github.com/YogitaBhandari09)
    
    
 
